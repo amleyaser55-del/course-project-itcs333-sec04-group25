@@ -1,0 +1,18 @@
+{
+ "topic_1": [
+   {
+     "id": "reply_1",
+     "author": "AMAL",
+     "date": "2026-5-5",
+     "text": "Have you tried using justify-content: space-between?"
+   }
+ ],
+ "topic_2": [
+   {
+     "id": "reply_2",
+     "author": "AMAL",
+     "date": "2026-5-5",
+     "text": "Use margin: auto or flexbox to center a div!"
+   }
+ ]
+}

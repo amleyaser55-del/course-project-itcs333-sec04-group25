@@ -1,0 +1,16 @@
+[
+ {
+   "id": "topic_1",
+   "subject": "Question about CSS Flexbox",
+   "message": "I am having trouble aligning items using CSS Flexbox. Can someone help?",
+   "author": "AMAL",
+   "date": "2026-5-5"
+ },
+ {
+   "id": "topic_2",
+   "subject": "How to center a div in CSS?",
+   "message": "I keep struggling with centering elements.",
+   "author": "AMAL",
+   "date": "2026-5-5"
+ }
+]
